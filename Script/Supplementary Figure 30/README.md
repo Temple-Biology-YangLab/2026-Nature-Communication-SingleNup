@@ -4,11 +4,6 @@ Tests whether the 2D → 3D transformation reliably recovers a **two-component**
 radial distribution, and — just as important — whether it invents a second peak
 when the truth has only one.
 
-Prepared in response to the round-2 reviewer concern that the published Monte
-Carlo validated only the recovery of a single peak position, not the full shape
-of the 3D probability distribution. The open/closed-state claims for Nup214C and
-Nup153C rest on resolving two distinct radial peaks within one population, so
-two-component recovery is what has to be validated.
 
 ---
 
